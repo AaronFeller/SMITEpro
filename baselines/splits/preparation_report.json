@@ -1,0 +1,2357 @@
+[
+  {
+    "assay": "A0A140D2T1_ZIKV_Sourisseau_2019",
+    "status": "unavailable",
+    "reason": "No February manuscript predictions for A0A140D2T1_ZIKV_Sourisseau_2019"
+  },
+  {
+    "assay": "A0A192B1T2_9HIV1_Haddox_2018",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/A0A192B1T2_9HIV1_Haddox_2018.json"
+  },
+  {
+    "assay": "A0A1I9GEU1_NEIME_Kennouche_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/A0A1I9GEU1_NEIME_Kennouche_2019.json"
+  },
+  {
+    "assay": "A0A247D711_LISMN_Stadelmann_2021",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/A0A247D711_LISMN_Stadelmann_2021.json"
+  },
+  {
+    "assay": "A0A2Z5U3Z0_9INFA_Doud_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/A0A2Z5U3Z0_9INFA_Doud_2016.json"
+  },
+  {
+    "assay": "A0A2Z5U3Z0_9INFA_Wu_2014",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/A0A2Z5U3Z0_9INFA_Wu_2014.json"
+  },
+  {
+    "assay": "A4D664_9INFA_Soh_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/A4D664_9INFA_Soh_2019.json"
+  },
+  {
+    "assay": "A4GRB6_PSEAI_Chen_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/A4GRB6_PSEAI_Chen_2020.json"
+  },
+  {
+    "assay": "A4_HUMAN_Seuma_2022",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/A4_HUMAN_Seuma_2022.json"
+  },
+  {
+    "assay": "AACC1_PSEAI_Dandage_2018",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/AACC1_PSEAI_Dandage_2018.json"
+  },
+  {
+    "assay": "ACE2_HUMAN_Chan_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ACE2_HUMAN_Chan_2020.json"
+  },
+  {
+    "assay": "ADRB2_HUMAN_Jones_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ADRB2_HUMAN_Jones_2020.json"
+  },
+  {
+    "assay": "AICDA_HUMAN_Gajula_2014_3cycles",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/AICDA_HUMAN_Gajula_2014_3cycles.json"
+  },
+  {
+    "assay": "AMFR_HUMAN_Tsuboyama_2023_4G3O",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/AMFR_HUMAN_Tsuboyama_2023_4G3O.json"
+  },
+  {
+    "assay": "AMIE_PSEAE_Wrenbeck_2017",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/AMIE_PSEAE_Wrenbeck_2017.json"
+  },
+  {
+    "assay": "ANCSZ_Hobbs_2022",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ANCSZ_Hobbs_2022.json"
+  },
+  {
+    "assay": "ARGR_ECOLI_Tsuboyama_2023_1AOY",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ARGR_ECOLI_Tsuboyama_2023_1AOY.json"
+  },
+  {
+    "assay": "B2L11_HUMAN_Dutta_2010_binding-Mcl-1",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/B2L11_HUMAN_Dutta_2010_binding-Mcl-1.json"
+  },
+  {
+    "assay": "BBC1_YEAST_Tsuboyama_2023_1TG0",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/BBC1_YEAST_Tsuboyama_2023_1TG0.json"
+  },
+  {
+    "assay": "BCHB_CHLTE_Tsuboyama_2023_2KRU",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/BCHB_CHLTE_Tsuboyama_2023_2KRU.json"
+  },
+  {
+    "assay": "BLAT_ECOLX_Deng_2012",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/BLAT_ECOLX_Deng_2012.json"
+  },
+  {
+    "assay": "BLAT_ECOLX_Firnberg_2014",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/BLAT_ECOLX_Firnberg_2014.json"
+  },
+  {
+    "assay": "BLAT_ECOLX_Jacquier_2013",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/BLAT_ECOLX_Jacquier_2013.json"
+  },
+  {
+    "assay": "BLAT_ECOLX_Stiffler_2015",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/BLAT_ECOLX_Stiffler_2015.json"
+  },
+  {
+    "assay": "BRCA1_HUMAN_Findlay_2018",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/BRCA1_HUMAN_Findlay_2018.json"
+  },
+  {
+    "assay": "BRCA2_HUMAN_Erwood_2022_HEK293T",
+    "status": "unavailable",
+    "reason": "No February manuscript predictions for BRCA2_HUMAN_Erwood_2022_HEK293T"
+  },
+  {
+    "assay": "C6KNH7_9INFA_Lee_2018",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/C6KNH7_9INFA_Lee_2018.json"
+  },
+  {
+    "assay": "CALM1_HUMAN_Weile_2017",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CALM1_HUMAN_Weile_2017.json"
+  },
+  {
+    "assay": "CAPSD_AAV2S_Sinai_2021",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CAPSD_AAV2S_Sinai_2021.json"
+  },
+  {
+    "assay": "CAR11_HUMAN_Meitlis_2020_gof",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CAR11_HUMAN_Meitlis_2020_gof.json"
+  },
+  {
+    "assay": "CAR11_HUMAN_Meitlis_2020_lof",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CAR11_HUMAN_Meitlis_2020_lof.json"
+  },
+  {
+    "assay": "CAS9_STRP1_Spencer_2017_positive",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CAS9_STRP1_Spencer_2017_positive.json"
+  },
+  {
+    "assay": "CASP3_HUMAN_Roychowdhury_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CASP3_HUMAN_Roychowdhury_2020.json"
+  },
+  {
+    "assay": "CASP7_HUMAN_Roychowdhury_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CASP7_HUMAN_Roychowdhury_2020.json"
+  },
+  {
+    "assay": "CATR_CHLRE_Tsuboyama_2023_2AMI",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CATR_CHLRE_Tsuboyama_2023_2AMI.json"
+  },
+  {
+    "assay": "CBPA2_HUMAN_Tsuboyama_2023_1O6X",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CBPA2_HUMAN_Tsuboyama_2023_1O6X.json"
+  },
+  {
+    "assay": "CBS_HUMAN_Sun_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CBS_HUMAN_Sun_2020.json"
+  },
+  {
+    "assay": "CBX4_HUMAN_Tsuboyama_2023_2K28",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CBX4_HUMAN_Tsuboyama_2023_2K28.json"
+  },
+  {
+    "assay": "CCDB_ECOLI_Adkar_2012",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CCDB_ECOLI_Adkar_2012.json"
+  },
+  {
+    "assay": "CCDB_ECOLI_Tripathi_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CCDB_ECOLI_Tripathi_2016.json"
+  },
+  {
+    "assay": "CCR5_HUMAN_Gill_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CCR5_HUMAN_Gill_2023.json"
+  },
+  {
+    "assay": "CD19_HUMAN_Klesmith_2019_FMC_singles",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CD19_HUMAN_Klesmith_2019_FMC_singles.json"
+  },
+  {
+    "assay": "CP2C9_HUMAN_Amorosi_2021_abundance",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CP2C9_HUMAN_Amorosi_2021_abundance.json"
+  },
+  {
+    "assay": "CP2C9_HUMAN_Amorosi_2021_activity",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CP2C9_HUMAN_Amorosi_2021_activity.json"
+  },
+  {
+    "assay": "CSN4_MOUSE_Tsuboyama_2023_1UFM",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CSN4_MOUSE_Tsuboyama_2023_1UFM.json"
+  },
+  {
+    "assay": "CUE1_YEAST_Tsuboyama_2023_2MYX",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/CUE1_YEAST_Tsuboyama_2023_2MYX.json"
+  },
+  {
+    "assay": "D7PM05_CLYGR_Somermeyer_2022",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/D7PM05_CLYGR_Somermeyer_2022.json"
+  },
+  {
+    "assay": "DLG4_HUMAN_Faure_2021",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/DLG4_HUMAN_Faure_2021.json"
+  },
+  {
+    "assay": "DLG4_RAT_McLaughlin_2012",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/DLG4_RAT_McLaughlin_2012.json"
+  },
+  {
+    "assay": "DN7A_SACS2_Tsuboyama_2023_1JIC",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/DN7A_SACS2_Tsuboyama_2023_1JIC.json"
+  },
+  {
+    "assay": "DNJA1_HUMAN_Tsuboyama_2023_2LO1",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/DNJA1_HUMAN_Tsuboyama_2023_2LO1.json"
+  },
+  {
+    "assay": "DOCK1_MOUSE_Tsuboyama_2023_2M0Y",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/DOCK1_MOUSE_Tsuboyama_2023_2M0Y.json"
+  },
+  {
+    "assay": "DYR_ECOLI_Nguyen_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/DYR_ECOLI_Nguyen_2023.json"
+  },
+  {
+    "assay": "DYR_ECOLI_Thompson_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/DYR_ECOLI_Thompson_2019.json"
+  },
+  {
+    "assay": "ENVZ_ECOLI_Ghose_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ENVZ_ECOLI_Ghose_2023.json"
+  },
+  {
+    "assay": "ENV_HV1B9_DuenasDecamp_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ENV_HV1B9_DuenasDecamp_2016.json"
+  },
+  {
+    "assay": "ENV_HV1BR_Haddox_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ENV_HV1BR_Haddox_2016.json"
+  },
+  {
+    "assay": "EPHB2_HUMAN_Tsuboyama_2023_1F0M",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/EPHB2_HUMAN_Tsuboyama_2023_1F0M.json"
+  },
+  {
+    "assay": "ERBB2_HUMAN_Elazar_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ERBB2_HUMAN_Elazar_2016.json"
+  },
+  {
+    "assay": "ESTA_BACSU_Nutschel_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ESTA_BACSU_Nutschel_2020.json"
+  },
+  {
+    "assay": "F7YBW8_MESOW_Aakre_2015",
+    "status": "partial",
+    "available_shots": [
+      16,
+      32
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/F7YBW8_MESOW_Aakre_2015.json"
+  },
+  {
+    "assay": "F7YBW8_MESOW_Ding_2023",
+    "status": "partial",
+    "available_shots": [
+      16,
+      32,
+      64
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/F7YBW8_MESOW_Ding_2023.json"
+  },
+  {
+    "assay": "FECA_ECOLI_Tsuboyama_2023_2D1U",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/FECA_ECOLI_Tsuboyama_2023_2D1U.json"
+  },
+  {
+    "assay": "FKBP3_HUMAN_Tsuboyama_2023_2KFV",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/FKBP3_HUMAN_Tsuboyama_2023_2KFV.json"
+  },
+  {
+    "assay": "GAL4_YEAST_Kitzman_2015",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/GAL4_YEAST_Kitzman_2015.json"
+  },
+  {
+    "assay": "GCN4_YEAST_Staller_2018",
+    "status": "partial",
+    "available_shots": [
+      16,
+      32
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/GCN4_YEAST_Staller_2018.json"
+  },
+  {
+    "assay": "GDIA_HUMAN_Silverstein_2021",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/GDIA_HUMAN_Silverstein_2021.json"
+  },
+  {
+    "assay": "GFP_AEQVI_Sarkisyan_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/GFP_AEQVI_Sarkisyan_2016.json"
+  },
+  {
+    "assay": "GLPA_HUMAN_Elazar_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/GLPA_HUMAN_Elazar_2016.json"
+  },
+  {
+    "assay": "GRB2_HUMAN_Faure_2021",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/GRB2_HUMAN_Faure_2021.json"
+  },
+  {
+    "assay": "HCP_LAMBD_Tsuboyama_2023_2L6Q",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/HCP_LAMBD_Tsuboyama_2023_2L6Q.json"
+  },
+  {
+    "assay": "HECD1_HUMAN_Tsuboyama_2023_3DKM",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/HECD1_HUMAN_Tsuboyama_2023_3DKM.json"
+  },
+  {
+    "assay": "HEM3_HUMAN_Loggerenberg_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/HEM3_HUMAN_Loggerenberg_2023.json"
+  },
+  {
+    "assay": "HIS7_YEAST_Pokusaeva_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/HIS7_YEAST_Pokusaeva_2019.json"
+  },
+  {
+    "assay": "HMDH_HUMAN_Jiang_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/HMDH_HUMAN_Jiang_2019.json"
+  },
+  {
+    "assay": "HSP82_YEAST_Cote-Hammarlof_2020_growth-H2O2",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/HSP82_YEAST_Cote-Hammarlof_2020_growth-H2O2.json"
+  },
+  {
+    "assay": "HSP82_YEAST_Flynn_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/HSP82_YEAST_Flynn_2019.json"
+  },
+  {
+    "assay": "HSP82_YEAST_Mishra_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/HSP82_YEAST_Mishra_2016.json"
+  },
+  {
+    "assay": "HXK4_HUMAN_Gersing_2022_activity",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/HXK4_HUMAN_Gersing_2022_activity.json"
+  },
+  {
+    "assay": "HXK4_HUMAN_Gersing_2023_abundance",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/HXK4_HUMAN_Gersing_2023_abundance.json"
+  },
+  {
+    "assay": "I6TAH8_I68A0_Doud_2015",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/I6TAH8_I68A0_Doud_2015.json"
+  },
+  {
+    "assay": "IF1_ECOLI_Kelsic_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/IF1_ECOLI_Kelsic_2016.json"
+  },
+  {
+    "assay": "ILF3_HUMAN_Tsuboyama_2023_2L33",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ILF3_HUMAN_Tsuboyama_2023_2L33.json"
+  },
+  {
+    "assay": "ISDH_STAAW_Tsuboyama_2023_2LHR",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ISDH_STAAW_Tsuboyama_2023_2LHR.json"
+  },
+  {
+    "assay": "KCNE1_HUMAN_Muhammad_2023_expression",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/KCNE1_HUMAN_Muhammad_2023_expression.json"
+  },
+  {
+    "assay": "KCNE1_HUMAN_Muhammad_2023_function",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/KCNE1_HUMAN_Muhammad_2023_function.json"
+  },
+  {
+    "assay": "KCNH2_HUMAN_Kozek_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/KCNH2_HUMAN_Kozek_2020.json"
+  },
+  {
+    "assay": "KCNJ2_MOUSE_Coyote-Maestas_2022_function",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/KCNJ2_MOUSE_Coyote-Maestas_2022_function.json"
+  },
+  {
+    "assay": "KCNJ2_MOUSE_Coyote-Maestas_2022_surface",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/KCNJ2_MOUSE_Coyote-Maestas_2022_surface.json"
+  },
+  {
+    "assay": "KKA2_KLEPN_Melnikov_2014",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/KKA2_KLEPN_Melnikov_2014.json"
+  },
+  {
+    "assay": "LGK_LIPST_Klesmith_2015",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/LGK_LIPST_Klesmith_2015.json"
+  },
+  {
+    "assay": "LYAM1_HUMAN_Elazar_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/LYAM1_HUMAN_Elazar_2016.json"
+  },
+  {
+    "assay": "MAFG_MOUSE_Tsuboyama_2023_1K1V",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/MAFG_MOUSE_Tsuboyama_2023_1K1V.json"
+  },
+  {
+    "assay": "MBD11_ARATH_Tsuboyama_2023_6ACV",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/MBD11_ARATH_Tsuboyama_2023_6ACV.json"
+  },
+  {
+    "assay": "MET_HUMAN_Estevam_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/MET_HUMAN_Estevam_2023.json"
+  },
+  {
+    "assay": "MK01_HUMAN_Brenan_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/MK01_HUMAN_Brenan_2016.json"
+  },
+  {
+    "assay": "MLAC_ECOLI_MacRae_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/MLAC_ECOLI_MacRae_2023.json"
+  },
+  {
+    "assay": "MSH2_HUMAN_Jia_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/MSH2_HUMAN_Jia_2020.json"
+  },
+  {
+    "assay": "MTH3_HAEAE_RockahShmuel_2015",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/MTH3_HAEAE_RockahShmuel_2015.json"
+  },
+  {
+    "assay": "MTHR_HUMAN_Weile_2021",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/MTHR_HUMAN_Weile_2021.json"
+  },
+  {
+    "assay": "MYO3_YEAST_Tsuboyama_2023_2BTT",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/MYO3_YEAST_Tsuboyama_2023_2BTT.json"
+  },
+  {
+    "assay": "NCAP_I34A1_Doud_2015",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/NCAP_I34A1_Doud_2015.json"
+  },
+  {
+    "assay": "NKX31_HUMAN_Tsuboyama_2023_2L9R",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/NKX31_HUMAN_Tsuboyama_2023_2L9R.json"
+  },
+  {
+    "assay": "NPC1_HUMAN_Erwood_2022_HEK293T",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/NPC1_HUMAN_Erwood_2022_HEK293T.json"
+  },
+  {
+    "assay": "NPC1_HUMAN_Erwood_2022_RPE1",
+    "status": "partial",
+    "available_shots": [
+      16,
+      32
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/NPC1_HUMAN_Erwood_2022_RPE1.json"
+  },
+  {
+    "assay": "NRAM_I33A0_Jiang_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/NRAM_I33A0_Jiang_2016.json"
+  },
+  {
+    "assay": "NUD15_HUMAN_Suiter_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/NUD15_HUMAN_Suiter_2020.json"
+  },
+  {
+    "assay": "NUSA_ECOLI_Tsuboyama_2023_1WCL",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/NUSA_ECOLI_Tsuboyama_2023_1WCL.json"
+  },
+  {
+    "assay": "NUSG_MYCTU_Tsuboyama_2023_2MI6",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/NUSG_MYCTU_Tsuboyama_2023_2MI6.json"
+  },
+  {
+    "assay": "OBSCN_HUMAN_Tsuboyama_2023_1V1C",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/OBSCN_HUMAN_Tsuboyama_2023_1V1C.json"
+  },
+  {
+    "assay": "ODP2_GEOSE_Tsuboyama_2023_1W4G",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/ODP2_GEOSE_Tsuboyama_2023_1W4G.json"
+  },
+  {
+    "assay": "OPSD_HUMAN_Wan_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/OPSD_HUMAN_Wan_2019.json"
+  },
+  {
+    "assay": "OTC_HUMAN_Lo_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/OTC_HUMAN_Lo_2023.json"
+  },
+  {
+    "assay": "OTU7A_HUMAN_Tsuboyama_2023_2L2D",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/OTU7A_HUMAN_Tsuboyama_2023_2L2D.json"
+  },
+  {
+    "assay": "OXDA_RHOTO_Vanella_2023_activity",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/OXDA_RHOTO_Vanella_2023_activity.json"
+  },
+  {
+    "assay": "OXDA_RHOTO_Vanella_2023_expression",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/OXDA_RHOTO_Vanella_2023_expression.json"
+  },
+  {
+    "assay": "P53_HUMAN_Giacomelli_2018_Null_Etoposide",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/P53_HUMAN_Giacomelli_2018_Null_Etoposide.json"
+  },
+  {
+    "assay": "P53_HUMAN_Giacomelli_2018_Null_Nutlin",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/P53_HUMAN_Giacomelli_2018_Null_Nutlin.json"
+  },
+  {
+    "assay": "P53_HUMAN_Giacomelli_2018_WT_Nutlin",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/P53_HUMAN_Giacomelli_2018_WT_Nutlin.json"
+  },
+  {
+    "assay": "P53_HUMAN_Kotler_2018",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/P53_HUMAN_Kotler_2018.json"
+  },
+  {
+    "assay": "P84126_THETH_Chan_2017",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/P84126_THETH_Chan_2017.json"
+  },
+  {
+    "assay": "PABP_YEAST_Melamed_2013",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PABP_YEAST_Melamed_2013.json"
+  },
+  {
+    "assay": "PAI1_HUMAN_Huttinger_2021",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PAI1_HUMAN_Huttinger_2021.json"
+  },
+  {
+    "assay": "PA_I34A1_Wu_2015",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PA_I34A1_Wu_2015.json"
+  },
+  {
+    "assay": "PHOT_CHLRE_Chen_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PHOT_CHLRE_Chen_2023.json"
+  },
+  {
+    "assay": "PIN1_HUMAN_Tsuboyama_2023_1I6C",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PIN1_HUMAN_Tsuboyama_2023_1I6C.json"
+  },
+  {
+    "assay": "PITX2_HUMAN_Tsuboyama_2023_2L7M",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PITX2_HUMAN_Tsuboyama_2023_2L7M.json"
+  },
+  {
+    "assay": "PKN1_HUMAN_Tsuboyama_2023_1URF",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PKN1_HUMAN_Tsuboyama_2023_1URF.json"
+  },
+  {
+    "assay": "POLG_CXB3N_Mattenberger_2021",
+    "status": "unavailable",
+    "reason": "No February manuscript predictions for POLG_CXB3N_Mattenberger_2021"
+  },
+  {
+    "assay": "POLG_DEN26_Suphatrakul_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/POLG_DEN26_Suphatrakul_2023.json"
+  },
+  {
+    "assay": "POLG_HCVJF_Qi_2014",
+    "status": "unavailable",
+    "reason": "No February manuscript predictions for POLG_HCVJF_Qi_2014"
+  },
+  {
+    "assay": "POLG_PESV_Tsuboyama_2023_2MXD",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/POLG_PESV_Tsuboyama_2023_2MXD.json"
+  },
+  {
+    "assay": "PPARG_HUMAN_Majithia_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PPARG_HUMAN_Majithia_2016.json"
+  },
+  {
+    "assay": "PPM1D_HUMAN_Miller_2022",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PPM1D_HUMAN_Miller_2022.json"
+  },
+  {
+    "assay": "PR40A_HUMAN_Tsuboyama_2023_1UZC",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PR40A_HUMAN_Tsuboyama_2023_1UZC.json"
+  },
+  {
+    "assay": "PRKN_HUMAN_Clausen_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PRKN_HUMAN_Clausen_2023.json"
+  },
+  {
+    "assay": "PSAE_PICP2_Tsuboyama_2023_1PSE",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PSAE_PICP2_Tsuboyama_2023_1PSE.json"
+  },
+  {
+    "assay": "PTEN_HUMAN_Matreyek_2021",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PTEN_HUMAN_Matreyek_2021.json"
+  },
+  {
+    "assay": "PTEN_HUMAN_Mighell_2018",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/PTEN_HUMAN_Mighell_2018.json"
+  },
+  {
+    "assay": "Q2N0S5_9HIV1_Haddox_2018",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/Q2N0S5_9HIV1_Haddox_2018.json"
+  },
+  {
+    "assay": "Q53Z42_HUMAN_McShan_2019_binding-TAPBPR",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/Q53Z42_HUMAN_McShan_2019_binding-TAPBPR.json"
+  },
+  {
+    "assay": "Q53Z42_HUMAN_McShan_2019_expression",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/Q53Z42_HUMAN_McShan_2019_expression.json"
+  },
+  {
+    "assay": "Q59976_STRSQ_Romero_2015",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/Q59976_STRSQ_Romero_2015.json"
+  },
+  {
+    "assay": "Q6WV12_9MAXI_Somermeyer_2022",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/Q6WV12_9MAXI_Somermeyer_2022.json"
+  },
+  {
+    "assay": "Q837P4_ENTFA_Meier_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/Q837P4_ENTFA_Meier_2023.json"
+  },
+  {
+    "assay": "Q837P5_ENTFA_Meier_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/Q837P5_ENTFA_Meier_2023.json"
+  },
+  {
+    "assay": "Q8WTC7_9CNID_Somermeyer_2022",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/Q8WTC7_9CNID_Somermeyer_2022.json"
+  },
+  {
+    "assay": "R1AB_SARS2_Flynn_2022",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/R1AB_SARS2_Flynn_2022.json"
+  },
+  {
+    "assay": "RAD_ANTMA_Tsuboyama_2023_2CJJ",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RAD_ANTMA_Tsuboyama_2023_2CJJ.json"
+  },
+  {
+    "assay": "RAF1_HUMAN_Zinkus-Boltz_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RAF1_HUMAN_Zinkus-Boltz_2019.json"
+  },
+  {
+    "assay": "RASH_HUMAN_Bandaru_2017",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RASH_HUMAN_Bandaru_2017.json"
+  },
+  {
+    "assay": "RASK_HUMAN_Weng_2022_abundance",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RASK_HUMAN_Weng_2022_abundance.json"
+  },
+  {
+    "assay": "RASK_HUMAN_Weng_2022_binding-DARPin_K55",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RASK_HUMAN_Weng_2022_binding-DARPin_K55.json"
+  },
+  {
+    "assay": "RBP1_HUMAN_Tsuboyama_2023_2KWH",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RBP1_HUMAN_Tsuboyama_2023_2KWH.json"
+  },
+  {
+    "assay": "RCD1_ARATH_Tsuboyama_2023_5OAO",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RCD1_ARATH_Tsuboyama_2023_5OAO.json"
+  },
+  {
+    "assay": "RCRO_LAMBD_Tsuboyama_2023_1ORC",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RCRO_LAMBD_Tsuboyama_2023_1ORC.json"
+  },
+  {
+    "assay": "RD23A_HUMAN_Tsuboyama_2023_1IFY",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RD23A_HUMAN_Tsuboyama_2023_1IFY.json"
+  },
+  {
+    "assay": "RDRP_I33A0_Li_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RDRP_I33A0_Li_2023.json"
+  },
+  {
+    "assay": "REV_HV1H2_Fernandes_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/REV_HV1H2_Fernandes_2016.json"
+  },
+  {
+    "assay": "RFAH_ECOLI_Tsuboyama_2023_2LCL",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RFAH_ECOLI_Tsuboyama_2023_2LCL.json"
+  },
+  {
+    "assay": "RL20_AQUAE_Tsuboyama_2023_1GYZ",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RL20_AQUAE_Tsuboyama_2023_1GYZ.json"
+  },
+  {
+    "assay": "RL40A_YEAST_Mavor_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RL40A_YEAST_Mavor_2016.json"
+  },
+  {
+    "assay": "RL40A_YEAST_Roscoe_2013",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RL40A_YEAST_Roscoe_2013.json"
+  },
+  {
+    "assay": "RL40A_YEAST_Roscoe_2014",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RL40A_YEAST_Roscoe_2014.json"
+  },
+  {
+    "assay": "RNC_ECOLI_Weeks_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RNC_ECOLI_Weeks_2023.json"
+  },
+  {
+    "assay": "RPC1_BP434_Tsuboyama_2023_1R69",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RPC1_BP434_Tsuboyama_2023_1R69.json"
+  },
+  {
+    "assay": "RPC1_LAMBD_Li_2019_high-expression",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RPC1_LAMBD_Li_2019_high-expression.json"
+  },
+  {
+    "assay": "RPC1_LAMBD_Li_2019_low-expression",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RPC1_LAMBD_Li_2019_low-expression.json"
+  },
+  {
+    "assay": "RS15_GEOSE_Tsuboyama_2023_1A32",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/RS15_GEOSE_Tsuboyama_2023_1A32.json"
+  },
+  {
+    "assay": "S22A1_HUMAN_Yee_2023_abundance",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/S22A1_HUMAN_Yee_2023_abundance.json"
+  },
+  {
+    "assay": "S22A1_HUMAN_Yee_2023_activity",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/S22A1_HUMAN_Yee_2023_activity.json"
+  },
+  {
+    "assay": "SAV1_MOUSE_Tsuboyama_2023_2YSB",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SAV1_MOUSE_Tsuboyama_2023_2YSB.json"
+  },
+  {
+    "assay": "SBI_STAAM_Tsuboyama_2023_2JVG",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SBI_STAAM_Tsuboyama_2023_2JVG.json"
+  },
+  {
+    "assay": "SC6A4_HUMAN_Young_2021",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SC6A4_HUMAN_Young_2021.json"
+  },
+  {
+    "assay": "SCIN_STAAR_Tsuboyama_2023_2QFF",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SCIN_STAAR_Tsuboyama_2023_2QFF.json"
+  },
+  {
+    "assay": "SCN5A_HUMAN_Glazer_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SCN5A_HUMAN_Glazer_2019.json"
+  },
+  {
+    "assay": "SDA_BACSU_Tsuboyama_2023_1PV0",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SDA_BACSU_Tsuboyama_2023_1PV0.json"
+  },
+  {
+    "assay": "SERC_HUMAN_Xie_2023",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SERC_HUMAN_Xie_2023.json"
+  },
+  {
+    "assay": "SHOC2_HUMAN_Kwon_2022",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SHOC2_HUMAN_Kwon_2022.json"
+  },
+  {
+    "assay": "SOX30_HUMAN_Tsuboyama_2023_7JJK",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SOX30_HUMAN_Tsuboyama_2023_7JJK.json"
+  },
+  {
+    "assay": "SPA_STAAU_Tsuboyama_2023_1LP1",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SPA_STAAU_Tsuboyama_2023_1LP1.json"
+  },
+  {
+    "assay": "SPG1_STRSG_Olson_2014",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SPG1_STRSG_Olson_2014.json"
+  },
+  {
+    "assay": "SPG1_STRSG_Wu_2016",
+    "status": "partial",
+    "available_shots": [
+      16,
+      32,
+      64
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SPG1_STRSG_Wu_2016.json"
+  },
+  {
+    "assay": "SPG2_STRSG_Tsuboyama_2023_5UBS",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SPG2_STRSG_Tsuboyama_2023_5UBS.json"
+  },
+  {
+    "assay": "SPIKE_SARS2_Starr_2020_binding",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SPIKE_SARS2_Starr_2020_binding.json"
+  },
+  {
+    "assay": "SPIKE_SARS2_Starr_2020_expression",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SPIKE_SARS2_Starr_2020_expression.json"
+  },
+  {
+    "assay": "SPTN1_CHICK_Tsuboyama_2023_1TUD",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SPTN1_CHICK_Tsuboyama_2023_1TUD.json"
+  },
+  {
+    "assay": "SQSTM_MOUSE_Tsuboyama_2023_2RRU",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SQSTM_MOUSE_Tsuboyama_2023_2RRU.json"
+  },
+  {
+    "assay": "SR43C_ARATH_Tsuboyama_2023_2N88",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SR43C_ARATH_Tsuboyama_2023_2N88.json"
+  },
+  {
+    "assay": "SRBS1_HUMAN_Tsuboyama_2023_2O2W",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SRBS1_HUMAN_Tsuboyama_2023_2O2W.json"
+  },
+  {
+    "assay": "SRC_HUMAN_Ahler_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SRC_HUMAN_Ahler_2019.json"
+  },
+  {
+    "assay": "SRC_HUMAN_Chakraborty_2023_binding-DAS_25uM",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SRC_HUMAN_Chakraborty_2023_binding-DAS_25uM.json"
+  },
+  {
+    "assay": "SRC_HUMAN_Nguyen_2022",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SRC_HUMAN_Nguyen_2022.json"
+  },
+  {
+    "assay": "SUMO1_HUMAN_Weile_2017",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SUMO1_HUMAN_Weile_2017.json"
+  },
+  {
+    "assay": "SYUA_HUMAN_Newberry_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/SYUA_HUMAN_Newberry_2020.json"
+  },
+  {
+    "assay": "TADBP_HUMAN_Bolognesi_2019",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/TADBP_HUMAN_Bolognesi_2019.json"
+  },
+  {
+    "assay": "TAT_HV1BR_Fernandes_2016",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/TAT_HV1BR_Fernandes_2016.json"
+  },
+  {
+    "assay": "TCRG1_MOUSE_Tsuboyama_2023_1E0L",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/TCRG1_MOUSE_Tsuboyama_2023_1E0L.json"
+  },
+  {
+    "assay": "THO1_YEAST_Tsuboyama_2023_2WQG",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/THO1_YEAST_Tsuboyama_2023_2WQG.json"
+  },
+  {
+    "assay": "TNKS2_HUMAN_Tsuboyama_2023_5JRT",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/TNKS2_HUMAN_Tsuboyama_2023_5JRT.json"
+  },
+  {
+    "assay": "TPK1_HUMAN_Weile_2017",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/TPK1_HUMAN_Weile_2017.json"
+  },
+  {
+    "assay": "TPMT_HUMAN_Matreyek_2018",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/TPMT_HUMAN_Matreyek_2018.json"
+  },
+  {
+    "assay": "TPOR_HUMAN_Bridgford_2020",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/TPOR_HUMAN_Bridgford_2020.json"
+  },
+  {
+    "assay": "TRPC_SACS2_Chan_2017",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/TRPC_SACS2_Chan_2017.json"
+  },
+  {
+    "assay": "TRPC_THEMA_Chan_2017",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/TRPC_THEMA_Chan_2017.json"
+  },
+  {
+    "assay": "UBC9_HUMAN_Weile_2017",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/UBC9_HUMAN_Weile_2017.json"
+  },
+  {
+    "assay": "UBE4B_HUMAN_Tsuboyama_2023_3L1X",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/UBE4B_HUMAN_Tsuboyama_2023_3L1X.json"
+  },
+  {
+    "assay": "UBE4B_MOUSE_Starita_2013",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/UBE4B_MOUSE_Starita_2013.json"
+  },
+  {
+    "assay": "UBR5_HUMAN_Tsuboyama_2023_1I2T",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/UBR5_HUMAN_Tsuboyama_2023_1I2T.json"
+  },
+  {
+    "assay": "VG08_BPP22_Tsuboyama_2023_2GP8",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/VG08_BPP22_Tsuboyama_2023_2GP8.json"
+  },
+  {
+    "assay": "VILI_CHICK_Tsuboyama_2023_1YU5",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/VILI_CHICK_Tsuboyama_2023_1YU5.json"
+  },
+  {
+    "assay": "VKOR1_HUMAN_Chiasson_2020_abundance",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/VKOR1_HUMAN_Chiasson_2020_abundance.json"
+  },
+  {
+    "assay": "VKOR1_HUMAN_Chiasson_2020_activity",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/VKOR1_HUMAN_Chiasson_2020_activity.json"
+  },
+  {
+    "assay": "VRPI_BPT7_Tsuboyama_2023_2WNM",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/VRPI_BPT7_Tsuboyama_2023_2WNM.json"
+  },
+  {
+    "assay": "YAIA_ECOLI_Tsuboyama_2023_2KVT",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/YAIA_ECOLI_Tsuboyama_2023_2KVT.json"
+  },
+  {
+    "assay": "YAP1_HUMAN_Araya_2012",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/YAP1_HUMAN_Araya_2012.json"
+  },
+  {
+    "assay": "YNZC_BACSU_Tsuboyama_2023_2JVD",
+    "status": "ready",
+    "available_shots": [
+      16,
+      32,
+      64,
+      128
+    ],
+    "manifest": "/stor/work/Wilke/alf3564/smitepro/baselines/splits/YNZC_BACSU_Tsuboyama_2023_2JVD.json"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "analysis": "post-hoc StabilityArc association with background-relative experimental outcome",
+  "input": "internal_data/Dan_data/HpaB_aaron_variants_digitized.csv",
+  "input_sha256": "c2cd72b589277a652b6b0071e26820addf3094155606656b9ee7477ef338e08d",
+  "reference_sha256": "ff2e2e44d7874303050f5ad169c9bdd261fc78775a800f222edb255020cd381c",
+  "checkpoint_sha256": "0f4538c6887cbf3bd26b79dbb87494baa22f4557a7b27c6ad9dcf1c3135ac605",
+  "model_repository": "aaronfeller/StabilityArc",
+  "encoder": "ESMC-600M",
+  "torch_version": "2.8.0+cu128",
+  "device": "cuda:1",
+  "seed": 20261010,
+  "outcome_tolerance": 0.005,
+  "experimental_values": "Approximate vector-digitized normalized fluorescence fold changes; error-bar statistic unspecified; negative values retained.",
+  "failure_definition": "Mean outcome below its matched control by more than tolerance; not a significance test.",
+  "stability_direction": "Score < 0 is predicted destabilization; ddG = -score, not calibrated kcal/mol.",
+  "comparison": "Effect of one added substitution on each reconstructed background, not total stability relative to WT."
+}

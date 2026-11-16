@@ -1,0 +1,85 @@
+cohort,metric,method,model,assays,proteins,matchups,assay_weighted_mean,protein_weighted_mean,unit,train_size,N
+Activity matched only,Enrichment Factor,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),33,32,33,5.068893152439362,4.60912138676027,fold enrichment,128,20
+Activity matched only,Enrichment Factor,Ensemble,Ensemble: SMITEpro + EVOLVEpro,33,32,33,4.962494494587693,4.489856122347395,fold enrichment,128,20
+Activity matched only,Enrichment Factor,SMITEpro,SMITEpro,33,32,33,4.783884895022803,4.315206621299444,fold enrichment,128,20
+Activity matched only,Enrichment Factor,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),33,32,33,4.609283738616672,4.311161557061347,fold enrichment,128,20
+Activity matched only,Enrichment Factor,MLDE One-Hot RF,MLDE (one-hot RF),33,32,33,4.038572088002315,3.7815701404835704,fold enrichment,128,20
+Activity matched only,Enrichment Factor,EVOLVEpro,EVOLVEpro,33,32,33,2.9831593032972403,2.9356408780815126,fold enrichment,128,20
+Activity matched only,Enrichment Factor,Zero-Shot ESM,Zero-shot ESMC,33,32,33,2.0975330053878407,1.9833196232999624,fold enrichment,128,20
+Activity matched only,Mean Top-N Fitness,Ensemble,Ensemble: SMITEpro + EVOLVEpro,33,32,33,0.5165369404568612,0.5089209086531622,normalized target,128,20
+Activity matched only,Mean Top-N Fitness,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),33,32,33,0.5142192156208856,0.5103247483754991,normalized target,128,20
+Activity matched only,Mean Top-N Fitness,SMITEpro,SMITEpro,33,32,33,0.4436391777597054,0.4336597110083685,normalized target,128,20
+Activity matched only,Mean Top-N Fitness,MLDE One-Hot RF,MLDE (one-hot RF),33,32,33,0.4354450563841372,0.4427635407870929,normalized target,128,20
+Activity matched only,Mean Top-N Fitness,EVOLVEpro,EVOLVEpro,33,32,33,0.41594337718043606,0.426982212887228,normalized target,128,20
+Activity matched only,Mean Top-N Fitness,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),33,32,33,0.4124918621137485,0.42052276587511916,normalized target,128,20
+Activity matched only,Mean Top-N Fitness,Zero-Shot ESM,Zero-shot ESMC,33,32,33,0.39136161646636414,0.388200584496436,normalized target,128,20
+Activity matched only,Top 1% Precision,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),33,32,33,16.818181818181817,15.546874999999998,percent,128,20
+Activity matched only,Top 1% Precision,Ensemble,Ensemble: SMITEpro + EVOLVEpro,33,32,33,16.36363636363636,15.0,percent,128,20
+Activity matched only,Top 1% Precision,SMITEpro,SMITEpro,33,32,33,16.21212121212121,14.921874999999998,percent,128,20
+Activity matched only,Top 1% Precision,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),33,32,33,15.0,14.296875,percent,128,20
+Activity matched only,Top 1% Precision,MLDE One-Hot RF,MLDE (one-hot RF),33,32,33,13.484848484848486,12.890625,percent,128,20
+Activity matched only,Top 1% Precision,EVOLVEpro,EVOLVEpro,33,32,33,9.696969696969697,9.609375,percent,128,20
+Activity matched only,Top 1% Precision,Zero-Shot ESM,Zero-shot ESMC,33,32,33,6.212121212121212,5.859375,percent,128,20
+Length matched,Enrichment Factor,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),25,18,25,9.205293752444081,8.959998768834286,fold enrichment,128,20
+Length matched,Enrichment Factor,Ensemble,Ensemble: SMITEpro + EVOLVEpro,25,18,25,9.056050448226237,8.757217620068422,fold enrichment,128,20
+Length matched,Enrichment Factor,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),25,18,25,7.813153816959555,8.18219829492596,fold enrichment,128,20
+Length matched,Enrichment Factor,SMITEpro,SMITEpro,25,18,25,6.9001356075667415,6.765384218636658,fold enrichment,128,20
+Length matched,Enrichment Factor,MLDE One-Hot RF,MLDE (one-hot RF),25,18,25,4.818814137602213,4.244831413729113,fold enrichment,128,20
+Length matched,Enrichment Factor,EVOLVEpro,EVOLVEpro,25,18,25,4.137712453235739,4.058473082874155,fold enrichment,128,20
+Length matched,Enrichment Factor,Zero-Shot ESM,Zero-shot ESMC,25,18,25,3.5009106810623467,2.8901239820108646,fold enrichment,128,20
+Length matched,Mean Top-N Fitness,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),25,18,25,0.5293827792069131,0.5241985490068971,normalized target,128,20
+Length matched,Mean Top-N Fitness,Ensemble,Ensemble: SMITEpro + EVOLVEpro,25,18,25,0.527826829853485,0.5224181223051808,normalized target,128,20
+Length matched,Mean Top-N Fitness,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),25,18,25,0.41017677483600967,0.45906391555527853,normalized target,128,20
+Length matched,Mean Top-N Fitness,SMITEpro,SMITEpro,25,18,25,0.399107336776814,0.4240175664750131,normalized target,128,20
+Length matched,Mean Top-N Fitness,MLDE One-Hot RF,MLDE (one-hot RF),25,18,25,0.3866162446887443,0.39666965247929975,normalized target,128,20
+Length matched,Mean Top-N Fitness,EVOLVEpro,EVOLVEpro,25,18,25,0.33441107029864325,0.35230308919307785,normalized target,128,20
+Length matched,Mean Top-N Fitness,Zero-Shot ESM,Zero-shot ESMC,25,18,25,0.2704684140012461,0.22953063226279383,normalized target,128,20
+Length matched,Top 1% Precision,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),25,18,25,22.6,21.018518518518515,percent,128,20
+Length matched,Top 1% Precision,Ensemble,Ensemble: SMITEpro + EVOLVEpro,25,18,25,22.200000000000003,20.416666666666668,percent,128,20
+Length matched,Top 1% Precision,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),25,18,25,18.8,19.259259259259256,percent,128,20
+Length matched,Top 1% Precision,SMITEpro,SMITEpro,25,18,25,17.400000000000002,16.435185185185183,percent,128,20
+Length matched,Top 1% Precision,MLDE One-Hot RF,MLDE (one-hot RF),25,18,25,11.8,9.953703703703704,percent,128,20
+Length matched,Top 1% Precision,EVOLVEpro,EVOLVEpro,25,18,25,10.0,9.537037037037038,percent,128,20
+Length matched,Top 1% Precision,Zero-Shot ESM,Zero-shot ESMC,25,18,25,8.6,6.712962962962964,percent,128,20
+Length matched + Activity,Enrichment Factor,SMITEpro,SMITEpro,7,6,7,9.522936555663376,7.813161039245556,fold enrichment,128,20
+Length matched + Activity,Enrichment Factor,Ensemble,Ensemble: SMITEpro + EVOLVEpro,7,6,7,8.871866024188554,7.002689960507105,fold enrichment,128,20
+Length matched + Activity,Enrichment Factor,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),7,6,7,7.692074585435445,5.677155407312969,fold enrichment,128,20
+Length matched + Activity,Enrichment Factor,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),7,6,7,6.818073154442424,5.596219755451646,fold enrichment,128,20
+Length matched + Activity,Enrichment Factor,MLDE One-Hot RF,MLDE (one-hot RF),7,6,7,4.827616413652332,3.588446747827362,fold enrichment,128,20
+Length matched + Activity,Enrichment Factor,EVOLVEpro,EVOLVEpro,7,6,7,3.319394509537372,3.122002109426847,fold enrichment,128,20
+Length matched + Activity,Enrichment Factor,Zero-Shot ESM,Zero-shot ESMC,7,6,7,2.5192235847474627,1.9803673101720494,fold enrichment,128,20
+Length matched + Activity,Mean Top-N Fitness,Ensemble,Ensemble: SMITEpro + EVOLVEpro,7,6,7,0.6346292710160714,0.6136924898228792,normalized target,128,20
+Length matched + Activity,Mean Top-N Fitness,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),7,6,7,0.6091447397952603,0.6041951685155951,normalized target,128,20
+Length matched + Activity,Mean Top-N Fitness,SMITEpro,SMITEpro,7,6,7,0.5980030166779464,0.5705065004905229,normalized target,128,20
+Length matched + Activity,Mean Top-N Fitness,MLDE One-Hot RF,MLDE (one-hot RF),7,6,7,0.4497048597359673,0.49111341044370244,normalized target,128,20
+Length matched + Activity,Mean Top-N Fitness,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),7,6,7,0.4317183225858047,0.4777542193917908,normalized target,128,20
+Length matched + Activity,Mean Top-N Fitness,Zero-Shot ESM,Zero-shot ESMC,7,6,7,0.4280339104641079,0.41728712229078196,normalized target,128,20
+Length matched + Activity,Mean Top-N Fitness,EVOLVEpro,EVOLVEpro,7,6,7,0.38680473919922165,0.44082208997190925,normalized target,128,20
+Length matched + Activity,Top 1% Precision,SMITEpro,SMITEpro,7,6,7,27.142857142857146,22.083333333333336,percent,128,20
+Length matched + Activity,Top 1% Precision,Ensemble,Ensemble: SMITEpro + EVOLVEpro,7,6,7,26.42857142857143,20.833333333333336,percent,128,20
+Length matched + Activity,Top 1% Precision,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),7,6,7,22.142857142857146,16.25,percent,128,20
+Length matched + Activity,Top 1% Precision,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),7,6,7,17.857142857142858,14.583333333333334,percent,128,20
+Length matched + Activity,Top 1% Precision,MLDE One-Hot RF,MLDE (one-hot RF),7,6,7,13.571428571428573,10.416666666666668,percent,128,20
+Length matched + Activity,Top 1% Precision,EVOLVEpro,EVOLVEpro,7,6,7,10.0,9.583333333333332,percent,128,20
+Length matched + Activity,Top 1% Precision,Zero-Shot ESM,Zero-shot ESMC,7,6,7,7.8571428571428585,6.25,percent,128,20
+Sensitivity: explicit activity annotation,Enrichment Factor,Ensemble,Ensemble: SMITEpro + EVOLVEpro,9,8,9,10.508989715318009,9.311748128948103,fold enrichment,128,20
+Sensitivity: explicit activity annotation,Enrichment Factor,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),9,8,9,9.817944200152546,8.572488518400327,fold enrichment,128,20
+Sensitivity: explicit activity annotation,Enrichment Factor,SMITEpro,SMITEpro,9,8,9,8.63507810538524,7.241764161787108,fold enrichment,128,20
+Sensitivity: explicit activity annotation,Enrichment Factor,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),9,8,9,7.702345474199749,6.896489464926331,fold enrichment,128,20
+Sensitivity: explicit activity annotation,Enrichment Factor,Zero-Shot ESM,Zero-shot ESMC,9,8,9,5.568045595752715,5.545006141196812,fold enrichment,128,20
+Sensitivity: explicit activity annotation,Enrichment Factor,MLDE One-Hot RF,MLDE (one-hot RF),9,8,9,5.228832374017173,4.349607119694051,fold enrichment,128,20
+Sensitivity: explicit activity annotation,Enrichment Factor,EVOLVEpro,EVOLVEpro,9,8,9,4.036671006707526,3.9782862687709017,fold enrichment,128,20
+Sensitivity: explicit activity annotation,Mean Top-N Fitness,Ensemble,Ensemble: SMITEpro + EVOLVEpro,9,8,9,0.6330853799520934,0.617189807674202,normalized target,128,20
+Sensitivity: explicit activity annotation,Mean Top-N Fitness,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),9,8,9,0.6159532991266993,0.6130921905833803,normalized target,128,20
+Sensitivity: explicit activity annotation,Mean Top-N Fitness,SMITEpro,SMITEpro,9,8,9,0.5101171480198319,0.47850902729700007,normalized target,128,20
+Sensitivity: explicit activity annotation,Mean Top-N Fitness,Zero-Shot ESM,Zero-shot ESMC,9,8,9,0.4776387437571628,0.4757792567888002,normalized target,128,20
+Sensitivity: explicit activity annotation,Mean Top-N Fitness,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),9,8,9,0.39515227393095287,0.425108440453586,normalized target,128,20
+Sensitivity: explicit activity annotation,Mean Top-N Fitness,MLDE One-Hot RF,MLDE (one-hot RF),9,8,9,0.38045762465183475,0.4028581332971195,normalized target,128,20
+Sensitivity: explicit activity annotation,Mean Top-N Fitness,EVOLVEpro,EVOLVEpro,9,8,9,0.38009606485450675,0.4197704936409331,normalized target,128,20
+Sensitivity: explicit activity annotation,Top 1% Precision,Ensemble,Ensemble: SMITEpro + EVOLVEpro,9,8,9,28.888888888888893,25.0,percent,128,20
+Sensitivity: explicit activity annotation,Top 1% Precision,Ensemble3,Ensemble3: SMITEpro + EVOLVEpro + MLDE (one-hot RF),9,8,9,26.111111111111107,22.1875,percent,128,20
+Sensitivity: explicit activity annotation,Top 1% Precision,SMITEpro,SMITEpro,9,8,9,23.888888888888886,19.6875,percent,128,20
+Sensitivity: explicit activity annotation,Top 1% Precision,Ensemble2,Ensemble2: SMITEpro + MLDE (one-hot RF),9,8,9,19.444444444444446,17.1875,percent,128,20
+Sensitivity: explicit activity annotation,Top 1% Precision,Zero-Shot ESM,Zero-shot ESMC,9,8,9,14.444444444444443,14.0625,percent,128,20
+Sensitivity: explicit activity annotation,Top 1% Precision,MLDE One-Hot RF,MLDE (one-hot RF),9,8,9,13.88888888888889,11.5625,percent,128,20
+Sensitivity: explicit activity annotation,Top 1% Precision,EVOLVEpro,EVOLVEpro,9,8,9,11.11111111111111,10.9375,percent,128,20

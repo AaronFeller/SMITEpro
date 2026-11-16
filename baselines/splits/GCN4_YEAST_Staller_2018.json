@@ -1,0 +1,70 @@
+{
+  "assay": "GCN4_YEAST_Staller_2018",
+  "assay_sha256": "e89aa6fcc676a71976a757bd5f70bf394d5c52ef3ed047e67732d56d786fc0b1",
+  "selections": {
+    "16": {
+      "train_mutants": [
+        "D103A",
+        "D139E",
+        "F108L",
+        "I128A",
+        "I142A",
+        "K118D",
+        "K140S",
+        "L113F",
+        "L137A",
+        "M107A",
+        "N112E",
+        "N116D",
+        "T102V",
+        "V135A",
+        "W120A",
+        "Y110F"
+      ],
+      "split_id": "108ad5ef09086afcb17ad5fdd7c3e53953c73b2421d8f8278545bdc9ef884fee",
+      "source": "/stor/work/Wilke/alf3564/smitepro/proteinGym/singleMutant/2026-02-27_softSqLoss_16batch_1e-3_cosineannealing_PEFT/GCN4_YEAST_Staller_2018_final_predictions_shot16.csv"
+    },
+    "32": {
+      "train_mutants": [
+        "D103A",
+        "D103E",
+        "D103N",
+        "D139E",
+        "F108L",
+        "F108Y",
+        "F124I",
+        "F124W",
+        "I128A",
+        "I142A",
+        "I142W",
+        "K118D",
+        "K140R",
+        "K140S",
+        "L113A",
+        "L113F",
+        "L113W",
+        "L123A",
+        "L137A",
+        "L137W",
+        "M107A",
+        "N112E",
+        "N116D",
+        "N116E",
+        "S101D",
+        "S122P",
+        "T102V",
+        "T105V",
+        "V135A",
+        "W120A",
+        "Y110A",
+        "Y110F"
+      ],
+      "split_id": "6cd80e0ab8d9ff3adb9b82169f9e2e0483ec5fd7c45d83e3abf5624829f8e571",
+      "source": "/stor/work/Wilke/alf3564/smitepro/proteinGym/singleMutant/2026-02-27_softSqLoss_16batch_1e-3_cosineannealing_PEFT/GCN4_YEAST_Staller_2018_final_predictions_shot32.csv"
+    }
+  },
+  "unavailable_shots": [
+    64,
+    128
+  ]
+}

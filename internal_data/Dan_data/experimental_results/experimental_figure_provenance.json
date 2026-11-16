@@ -1,0 +1,14 @@
+{
+  "inputs_sha256": {
+    "internal_data/Dan_data/experimental_results/HpaBC_all_variants_replicates.xlsx": "13c568bba8b7df3d41db076b4d9bd7fad39fbd8e34cf47f5cb7fea5f92f2a2ea",
+    "internal_data/Dan_data/experimental_results/HpaBC_variants_prism.xlsx": "a4d5ae1b5711a83c17d70647d506a81708ada84e125d4cef7e977664e75718df",
+    "internal_data/Dan_data/round2/hpab_data.csv": "f8583217702db684e3ab646a8a993675439b214db2adcafe9933c5fa692d5571",
+    "internal_data/Dan_data/round2/hpab_data2.txt": "2995d720d86b894873645ed94b62e64c16806612271b6398094f5a1e4cbdd6fa"
+  },
+  "figure_source": "HpaBC_all_variants_replicates.xlsx; Prism summaries audited separately, not substituted.",
+  "normalization": "Within-background = measurement / mean(current matched controls); reconstructed WT = within-background * original background/WT factor.",
+  "uncertainty": "Bars show sample SD of supplied measurements conditional on fixed control mean and historical factor. Calibration uncertainty is not propagated. Replicate independence and biological/technical status unknown; no significance tests.",
+  "missing_candidates": [
+    "I29V_A199P_A53R"
+  ]
+}

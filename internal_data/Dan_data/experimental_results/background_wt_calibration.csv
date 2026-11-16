@@ -1,0 +1,7 @@
+background,background_fold_wt,source_variant,source,original_rounded_fold_wt
+WT,1.0,WT,WT reference definition,
+A199P,5.371100936,A199P,internal_data/Dan_data/round2/hpab_data.csv,5.4
+I29V_A199P,13.38164744,A199P:I29V,internal_data/Dan_data/round2/hpab_data.csv,13.4
+I29V_A199P_D354K,4.877856654,A199P:I29V:D354K,internal_data/Dan_data/round2/hpab_data.csv,4.9
+I29V_A199P_D354K_G122A,8.907260432,A199P:I29V:D354K:G122A,internal_data/Dan_data/round2/hpab_data.csv,8.9
+I29V_A199P_D354K_H454Q_H372P,28.77959992,A199P:I29V:D354K:H454Q:H372P,internal_data/Dan_data/round2/hpab_data.csv,28.8

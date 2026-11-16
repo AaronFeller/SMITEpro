@@ -1,0 +1,43 @@
+# Python & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+baselines/.deps/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS & editor files
+.DS_Store
+.vscode/
+.env
+.env.*
+!.env.example
+*.tmp
+*.bak
+*~
+
+# Model weights & training logs
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.log
+events.out.tfevents.*
+wandb/
+lightning_logs/
+
+# LaTeX build intermediates
+*.aux
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+/manuscript/*.out
+/manuscript/papers/

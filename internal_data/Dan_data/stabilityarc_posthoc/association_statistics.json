@@ -1,0 +1,7 @@
+{
+  "within_background_centered_rank_correlation": 0.37986390388058616,
+  "within_background_permutation_p_two_sided": 9.999000099990002e-05,
+  "permutations": 10000,
+  "seed": 20261010,
+  "interpretation": "Exploratory association, not causation; no multiple-testing correction for per-background descriptive tests."
+}

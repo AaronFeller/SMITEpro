@@ -1,0 +1,106 @@
+cohort,metric,method,assay_weighted_mean
+Length matched,Mean Top-N Fitness,Ensemble,0.5278268298534851
+Length matched,Mean Top-N Fitness,SMITEpro,0.399107336776814
+Length matched,Mean Top-N Fitness,EVOLVEpro,0.33441107029864325
+Length matched,Mean Top-N Fitness,MLDE One-Hot RF,0.3306304106761563
+Length matched,Mean Top-N Fitness,Kermut ESMC Sequence GP,0.36134065043219615
+Length matched,Mean Top-N Fitness,MSA PSSM,0.3502309384669867
+Length matched,Mean Top-N Fitness,Zero-Shot ESM,0.2704684140012461
+Length matched + Activity,Mean Top-N Fitness,Ensemble,0.6346292710160715
+Length matched + Activity,Mean Top-N Fitness,SMITEpro,0.5980030166779464
+Length matched + Activity,Mean Top-N Fitness,EVOLVEpro,0.3868047391992217
+Length matched + Activity,Mean Top-N Fitness,MLDE One-Hot RF,0.4476167232085961
+Length matched + Activity,Mean Top-N Fitness,Kermut ESMC Sequence GP,0.5010687466329019
+Length matched + Activity,Mean Top-N Fitness,MSA PSSM,0.3126868169597454
+Length matched + Activity,Mean Top-N Fitness,Zero-Shot ESM,0.4280339104641079
+Activity,Mean Top-N Fitness,Ensemble,0.5165369404568612
+Activity,Mean Top-N Fitness,SMITEpro,0.4436391777597054
+Activity,Mean Top-N Fitness,EVOLVEpro,0.4159433771804361
+Activity,Mean Top-N Fitness,MLDE One-Hot RF,0.3817273492625356
+Activity,Mean Top-N Fitness,Kermut ESMC Sequence GP,0.45583885179296113
+Activity,Mean Top-N Fitness,MSA PSSM,0.36073614608129284
+Activity,Mean Top-N Fitness,Zero-Shot ESM,0.39136161646636414
+OrganismalFitness,Mean Top-N Fitness,Ensemble,0.4609003765864533
+OrganismalFitness,Mean Top-N Fitness,SMITEpro,0.3347293697164719
+OrganismalFitness,Mean Top-N Fitness,EVOLVEpro,0.3296334327203326
+OrganismalFitness,Mean Top-N Fitness,MLDE One-Hot RF,0.32692140599996117
+OrganismalFitness,Mean Top-N Fitness,Kermut ESMC Sequence GP,0.3174421698484196
+OrganismalFitness,Mean Top-N Fitness,MSA PSSM,0.3542301114118431
+OrganismalFitness,Mean Top-N Fitness,Zero-Shot ESM,0.22934318868589038
+Expression,Mean Top-N Fitness,Ensemble,0.5891835183118673
+Expression,Mean Top-N Fitness,SMITEpro,0.4162483988829012
+Expression,Mean Top-N Fitness,EVOLVEpro,0.49436154738011556
+Expression,Mean Top-N Fitness,MLDE One-Hot RF,0.41440346435226144
+Expression,Mean Top-N Fitness,Kermut ESMC Sequence GP,0.48120465594639594
+Expression,Mean Top-N Fitness,MSA PSSM,0.401943730620649
+Expression,Mean Top-N Fitness,Zero-Shot ESM,0.4017864274431827
+Length matched,Top 1% Precision,Ensemble,22.2
+Length matched,Top 1% Precision,SMITEpro,17.4
+Length matched,Top 1% Precision,EVOLVEpro,10.0
+Length matched,Top 1% Precision,MLDE One-Hot RF,9.889905070064797
+Length matched,Top 1% Precision,Kermut ESMC Sequence GP,10.8
+Length matched,Top 1% Precision,MSA PSSM,8.6
+Length matched,Top 1% Precision,Zero-Shot ESM,8.6
+Length matched + Activity,Top 1% Precision,Ensemble,26.42857142857143
+Length matched + Activity,Top 1% Precision,SMITEpro,27.142857142857142
+Length matched + Activity,Top 1% Precision,EVOLVEpro,10.0
+Length matched + Activity,Top 1% Precision,MLDE One-Hot RF,12.369566735683406
+Length matched + Activity,Top 1% Precision,Kermut ESMC Sequence GP,13.571428571428571
+Length matched + Activity,Top 1% Precision,MSA PSSM,3.571428571428571
+Length matched + Activity,Top 1% Precision,Zero-Shot ESM,7.8571428571428585
+Activity,Top 1% Precision,Ensemble,16.36363636363636
+Activity,Top 1% Precision,SMITEpro,16.21212121212121
+Activity,Top 1% Precision,EVOLVEpro,9.696969696969697
+Activity,Top 1% Precision,MLDE One-Hot RF,10.147740328845005
+Activity,Top 1% Precision,Kermut ESMC Sequence GP,9.242424242424242
+Activity,Top 1% Precision,MSA PSSM,6.363636363636364
+Activity,Top 1% Precision,Zero-Shot ESM,6.212121212121212
+OrganismalFitness,Top 1% Precision,Ensemble,12.941176470588234
+OrganismalFitness,Top 1% Precision,SMITEpro,14.313725490196077
+OrganismalFitness,Top 1% Precision,EVOLVEpro,7.15686274509804
+OrganismalFitness,Top 1% Precision,MLDE One-Hot RF,9.358637867777825
+OrganismalFitness,Top 1% Precision,Kermut ESMC Sequence GP,7.0588235294117645
+OrganismalFitness,Top 1% Precision,MSA PSSM,7.941176470588235
+OrganismalFitness,Top 1% Precision,Zero-Shot ESM,7.254901960784315
+Expression,Top 1% Precision,Ensemble,17.5
+Expression,Top 1% Precision,SMITEpro,9.285714285714286
+Expression,Top 1% Precision,EVOLVEpro,10.0
+Expression,Top 1% Precision,MLDE One-Hot RF,9.508149909147809
+Expression,Top 1% Precision,Kermut ESMC Sequence GP,8.214285714285714
+Expression,Top 1% Precision,MSA PSSM,7.8571428571428585
+Expression,Top 1% Precision,Zero-Shot ESM,10.357142857142856
+Length matched,Enrichment Factor,Ensemble,9.056050448226237
+Length matched,Enrichment Factor,SMITEpro,6.9001356075667415
+Length matched,Enrichment Factor,EVOLVEpro,4.137712453235739
+Length matched,Enrichment Factor,MLDE One-Hot RF,3.786746594523596
+Length matched,Enrichment Factor,Kermut ESMC Sequence GP,4.075415868570292
+Length matched,Enrichment Factor,MSA PSSM,3.520631184776792
+Length matched,Enrichment Factor,Zero-Shot ESM,3.5009106810623467
+Length matched + Activity,Enrichment Factor,Ensemble,8.871866024188554
+Length matched + Activity,Enrichment Factor,SMITEpro,9.522936555663376
+Length matched + Activity,Enrichment Factor,EVOLVEpro,3.319394509537372
+Length matched + Activity,Enrichment Factor,MLDE One-Hot RF,3.9972798512444334
+Length matched + Activity,Enrichment Factor,Kermut ESMC Sequence GP,4.142400006575046
+Length matched + Activity,Enrichment Factor,MSA PSSM,1.3070901650182472
+Length matched + Activity,Enrichment Factor,Zero-Shot ESM,2.5192235847474627
+Activity,Enrichment Factor,Ensemble,4.962494494587693
+Activity,Enrichment Factor,SMITEpro,4.783884895022803
+Activity,Enrichment Factor,EVOLVEpro,2.9831593032972403
+Activity,Enrichment Factor,MLDE One-Hot RF,2.9301123787837895
+Activity,Enrichment Factor,Kermut ESMC Sequence GP,2.724352239999459
+Activity,Enrichment Factor,MSA PSSM,1.9430681315481437
+Activity,Enrichment Factor,Zero-Shot ESM,2.0975330053878403
+OrganismalFitness,Enrichment Factor,Ensemble,4.281820989572545
+OrganismalFitness,Enrichment Factor,SMITEpro,4.657940714363287
+OrganismalFitness,Enrichment Factor,EVOLVEpro,1.923146446313973
+OrganismalFitness,Enrichment Factor,MLDE One-Hot RF,2.805628852749795
+OrganismalFitness,Enrichment Factor,Kermut ESMC Sequence GP,1.8110651468406669
+OrganismalFitness,Enrichment Factor,MSA PSSM,2.3460087003929275
+OrganismalFitness,Enrichment Factor,Zero-Shot ESM,1.8991192449999756
+Expression,Enrichment Factor,Ensemble,6.614865242235274
+Expression,Enrichment Factor,SMITEpro,3.3352181683126694
+Expression,Enrichment Factor,EVOLVEpro,4.027286405075446
+Expression,Enrichment Factor,MLDE One-Hot RF,3.295474906901571
+Expression,Enrichment Factor,Kermut ESMC Sequence GP,3.0199461584934326
+Expression,Enrichment Factor,MSA PSSM,3.2089833445367084
+Expression,Enrichment Factor,Zero-Shot ESM,4.300363264536422

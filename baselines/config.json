@@ -1,0 +1,30 @@
+{
+  "historical_dir": "proteinGym/singleMutant/2026-02-27_softSqLoss_16batch_1e-3_cosineannealing_PEFT",
+  "assay_dir": "datasets/DMS_ProteinGym_substitutions/cv_folds_singles_substitutions",
+  "zero_shot_dir": "proteinGym/singleMutant/zeroshot_predictions",
+  "manifest_dir": "baselines/splits",
+  "embedding_cache_dir": "baselines/cache/esmc",
+  "output_dir": "baselines/results",
+  "model": "esmc_300m",
+  "device": "cuda:0",
+  "seed": 101,
+  "threads": 4,
+  "embedding_batch_size": 16,
+  "gp": {
+    "use_sequence_kernel": true,
+    "use_structure_kernel": false,
+    "coordinates": null,
+    "prior": "delta_esm",
+    "steps": 150,
+    "learning_rate": 0.03,
+    "prediction_batch_size": 1024
+  },
+  "rf": {"n_estimators": 100},
+  "msa": {
+    "reference_csv": "datasets/ProteinGym_reference_files/DMS_substitutions.csv",
+    "directory": "datasets/ProteinGym_MSAs",
+    "cache_dir": "baselines/cache/msas",
+    "api_url": "https://api.colabfold.com",
+    "pseudocount": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "experimental_source": "Candidate means and SE recomputed from selected real measurements guided by HpaBC_variants_prism.xlsx; two candidate rows use closest approximations. Controls are excluded from this scatter. Values are matched-background relative; historical WT factors are not applied.",
+  "prediction_source": "internal_data/Dan_data/stabilityarc_posthoc/tested_mutation_predictions.csv",
+  "prediction_sha256": "1c1aef74ae3dea672047345e13ee30429f95c9cbe3cfaafa6b8d34ae13846d30",
+  "experimental_coverage": "All 119 Prism candidate means plotted at their actual values on shared linear axes, including 13 nonpositive means; controls excluded.",
+  "correlations": "Spearman computed on all means, including nonpositive values; no significance tests shown.",
+  "interpretation": "Both stability and experimental fold-change concern one added substitution relative to its tested background. Dashed horizontal line is matched background = 1. Vertical bars show sample SD / sqrt(selected n), not SD; absent for n=1. Replicate selection and independence are unspecified, so SE is descriptive rather than evidence of significance."
+}

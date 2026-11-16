@@ -1,0 +1,7 @@
+background,candidates,spearman_rho,above_background,below_background,nonpositive_means,destabilizing_above_background,destabilizing_below_background
+WT,20,-0.024060150375939848,2,18,0,1,14
+A199P,20,0.6586466165413534,5,15,4,1,10
+I29V_A199P,19,0.5614035087719299,9,10,1,1,7
+I29V_A199P_D354K,20,0.4240601503759398,4,16,4,0,5
+I29V_A199P_D354K_G122A,20,0.5097744360902255,5,15,3,1,10
+I29V_A199P_D354K_H454Q_H372P,20,0.2827067669172932,3,17,1,0,6

@@ -1,0 +1,70 @@
+{
+  "assay": "NPC1_HUMAN_Erwood_2022_RPE1",
+  "assay_sha256": "5330e2204ca3ee45d07d33bd4d65b3bafe33919efe07ce390c38823c7d390450",
+  "selections": {
+    "16": {
+      "train_mutants": [
+        "D917N",
+        "L919M",
+        "N915S",
+        "N916K",
+        "N916S",
+        "P422R",
+        "P422T",
+        "P424L",
+        "P424S",
+        "Q421R",
+        "S425P",
+        "S918T",
+        "V920L",
+        "Y420S",
+        "Y423D",
+        "Y423S"
+      ],
+      "split_id": "d8374e65b8d6d4a3d75dc8228f2b8379b30640c9267d3932138cf83038fb014c",
+      "source": "/stor/work/Wilke/alf3564/smitepro/proteinGym/singleMutant/2026-02-27_softSqLoss_16batch_1e-3_cosineannealing_PEFT/NPC1_HUMAN_Erwood_2022_RPE1_final_predictions_shot16.csv"
+    },
+    "32": {
+      "train_mutants": [
+        "D917E",
+        "D917N",
+        "D917V",
+        "L919M",
+        "L919V",
+        "N915I",
+        "N915K",
+        "N915S",
+        "N916K",
+        "N916S",
+        "N916T",
+        "P422R",
+        "P422S",
+        "P422T",
+        "P424L",
+        "P424S",
+        "P424T",
+        "Q421E",
+        "Q421K",
+        "Q421R",
+        "S425L",
+        "S425P",
+        "S425T",
+        "S918A",
+        "S918T",
+        "V920L",
+        "Y420F",
+        "Y420N",
+        "Y420S",
+        "Y423D",
+        "Y423N",
+        "Y423S"
+      ],
+      "split_id": "22ca0b0190ef809e95fdb86145192ac9877f48e96990a8471e94699f85dc5303",
+      "source": "/stor/work/Wilke/alf3564/smitepro/proteinGym/singleMutant/2026-02-27_softSqLoss_16batch_1e-3_cosineannealing_PEFT/NPC1_HUMAN_Erwood_2022_RPE1_final_predictions_shot32.csv"
+    }
+  },
+  "unavailable_shots": [
+    64,
+    128
+  ]
+}
